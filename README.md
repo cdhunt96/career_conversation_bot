@@ -1,5 +1,7 @@
 # Career Conversation Bot
 
+Career Conversation Chatbot from Ed Donner's Agentic AI Course
+
 A Gradio-based chatbot that represents Christian Hunt for career-related conversations. The bot uses OpenAI's GPT-4o-mini model with function calling to answer questions about career, background, skills, and experience.
 
 ## Features
